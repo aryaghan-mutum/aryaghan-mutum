@@ -81,14 +81,6 @@ interests:
 
 ---
 
-## 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **ATK Automation Framework** | A robust automation toolkit for API and UI testing with zero manual scripting | Java, Selenium, REST Assured |
-| **Agentic AI for UI Testing** | AI framework that interprets English test cases and executes them without scripts | Python, OpenAI, Playwright |
-
----
 
 ## 🌐 Apps I Built
 
@@ -107,19 +99,5 @@ interests:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryaghan-mutum&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaghan-mutum&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-💼 Open to collaborating on **automation frameworks**, **AI testing tools**, and **quality engineering** projects
-
-📧 Feel free to reach out for discussions on test automation strategies!
-
-⭐ **Check out my repositories and let's build something amazing together!**
 
 </div>
