@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anurag Muthyam
 
-**Lead QA Test Automation Engineer | AI Enthusiast | Quality Advocate**
+**Lead QA Test Automation Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryaghan-mutum)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryaghan-mutum)
@@ -18,18 +18,12 @@
 ```yaml
 name: Anurag Muthyam
 location: Pembroke Pines, FL
-current_role: Lead, QA Test Automation
 interests:
   - AI-driven Test Automation
   - Quality Engineering
   - Full-Stack Development
   - Agentic AI Frameworks
 ```
-
-- 🔭 Currently building **intelligent automation frameworks** that reduce manual testing effort
-- 🌱 Exploring **Agentic AI** and its applications in software testing
-- 💬 Ask me about **Java**, **Spring Boot**, **Python**, **React**, and **Automation Strategies**
-- ⚡ Fun fact: I love turning complex testing challenges into elegant automated solutions
 
 ---
 
@@ -40,7 +34,7 @@ interests:
 <br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-3E5CAA?style=for-the-badge&logo=lisp&logoColor=white)
@@ -81,12 +75,15 @@ interests:
 
 ---
 
-
 ## 🌐 Apps I Built
 
+<div align="center">
+
 | App | Description | Link |
-|-----|-------------|------|
-| **Molecular Dynamics Simulation** | An interactive web application for visualizing and simulating molecular dynamics | [🚀 Try it live!](https://aryaghan-mutum.github.io/MolecularDynamics/) |
+|:---:|:------------|:----:|
+| 🧪 **Molecular Dynamics Simulation** | An interactive web application for visualizing and simulating molecular dynamics | [🚀 Try it live!](https://aryaghan-mutum.github.io/MolecularDynamics/) |
+
+</div>
 
 ---
 
@@ -94,10 +91,19 @@ interests:
 
 <div align="center">
 
+<a href="https://github.com/aryaghan-mutum">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryaghan-mutum&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaghan-mutum&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryaghan-mutum&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryaghan-mutum&show_icons=true&theme=tokyonight&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaghan-mutum&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+<div align="center">
+
+⭐ **If you find my work interesting, feel free to star my repositories!** ⭐
 
 </div>
