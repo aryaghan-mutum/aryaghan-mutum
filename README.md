@@ -10,6 +10,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag.tech6@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryaghan-mutum&color=blueviolet&style=flat-square)
+![Version](https://img.shields.io/github/v/tag/aryaghan-mutum/aryaghan-mutum?label=Profile%20Version&style=flat-square&color=6C63FF)
+![Last Commit](https://img.shields.io/github/last-commit/aryaghan-mutum/aryaghan-mutum?style=flat-square&label=Last%20Updated&color=green)
 
 > 💡 **Tip:** This profile supports both light and dark themes. Try switching your GitHub theme!
 
