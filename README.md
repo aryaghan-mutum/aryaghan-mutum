@@ -7,9 +7,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-muthyam-9605b4167/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryaghan-mutum)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aryaghan-mutum.github.io/anurag-muthyam/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag.muthyam@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag.tech6@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryaghan-mutum&color=blueviolet&style=flat-square)
+
+> 💡 **Tip:** This profile supports both light and dark themes. Try switching your GitHub theme!
 
 </div>
 
@@ -100,6 +102,20 @@ interests:
 
 ---
 
+## 📌 Featured Repositories
+
+<div align="center">
+
+[![MolecularDynamics](https://github-readme-stats.vercel.app/api/pin/?username=aryaghan-mutum&repo=MolecularDynamics&theme=tokyonight&hide_border=true)](https://github.com/aryaghan-mutum/MolecularDynamics)
+[![WebDevBootCamp](https://github-readme-stats.vercel.app/api/pin/?username=aryaghan-mutum&repo=WebDevBootCamp&theme=tokyonight&hide_border=true)](https://github.com/aryaghan-mutum/WebDevBootCamp)
+
+[![Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=aryaghan-mutum&repo=Algorithms&theme=tokyonight&hide_border=true)](https://github.com/aryaghan-mutum/Algorithms)
+[![PharmaceuticsProject](https://github-readme-stats.vercel.app/api/pin/?username=aryaghan-mutum&repo=PharmaceuticsProject&theme=tokyonight&hide_border=true)](https://github.com/aryaghan-mutum/PharmaceuticsProject)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -111,9 +127,29 @@ interests:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaghan-mutum&layout=compact&theme=tokyonight&hide_border=true"/>
 </a>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aryaghan-mutum&theme=tokyonight&hide_border=true)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aryaghan-mutum&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryaghan-mutum&theme=tokyo-night&hide_border=true)
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryaghan-mutum/aryaghan-mutum/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryaghan-mutum/aryaghan-mutum/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aryaghan-mutum/aryaghan-mutum/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📈 Metrics Dashboard
+
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/aryaghan-mutum?template=classic&isocalendar=1&languages=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York)
 
 </div>
 
