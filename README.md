@@ -102,21 +102,7 @@ interests:
 
 ---
 
-## 📌 Featured Repositories
-
-<div align="center">
-
-[![MolecularDynamics](https://github-readme-stats.vercel.app/api/pin/?username=aryaghan-mutum&repo=MolecularDynamics&theme=tokyonight&hide_border=true)](https://github.com/aryaghan-mutum/MolecularDynamics)
-[![WebDevBootCamp](https://github-readme-stats.vercel.app/api/pin/?username=aryaghan-mutum&repo=WebDevBootCamp&theme=tokyonight&hide_border=true)](https://github.com/aryaghan-mutum/WebDevBootCamp)
-
-[![Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=aryaghan-mutum&repo=Algorithms&theme=tokyonight&hide_border=true)](https://github.com/aryaghan-mutum/Algorithms)
-[![PharmaceuticsProject](https://github-readme-stats.vercel.app/api/pin/?username=aryaghan-mutum&repo=PharmaceuticsProject&theme=tokyonight&hide_border=true)](https://github.com/aryaghan-mutum/PharmaceuticsProject)
-
-</div>
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -149,7 +135,34 @@ interests:
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/aryaghan-mutum?template=classic&isocalendar=1&languages=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📅 Contribution Calendar</h3>
+      <img src="https://ghchart.rshah.org/6C63FF/aryaghan-mutum" alt="Contribution Calendar"/>
+    </td>
+    <td width="50%">
+      <h3 align="center">⏱️ Coding Activity</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryaghan-mutum&theme=tokyonight" alt="Profile Details"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 Commits Per Day</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryaghan-mutum&theme=tokyonight&utcOffset=-5" alt="Commits Per Day"/>
+    </td>
+    <td width="50%">
+      <h3 align="center">🗂️ Repos Per Language</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryaghan-mutum&theme=tokyonight" alt="Repos Per Language"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🏆 Achievements</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryaghan-mutum&theme=tokyonight" alt="Stats"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
