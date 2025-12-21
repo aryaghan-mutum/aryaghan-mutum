@@ -4,8 +4,9 @@
 
 **Lead QA Test Automation Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryaghan-mutum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-muthyam-9605b4167/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryaghan-mutum)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aryaghan-mutum.github.io/anurag-muthyam/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryaghan-mutum&color=blueviolet&style=flat-square)
 
@@ -47,7 +48,7 @@ interests:
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 </details>
@@ -81,7 +82,7 @@ interests:
 
 | App | Description | Link |
 |:---:|:------------|:----:|
-| 🧪 **Molecular Dynamics Simulation** | An interactive web application for visualizing and simulating molecular dynamics | [🚀 Try it live!](https://aryaghan-mutum.github.io/MolecularDynamics/) |
+| 🧪 **Molecular Dynamics Simulation** | An interactive web application for visualizing and simulating molecular dynamics | [View Demo](https://aryaghan-mutum.github.io/MolecularDynamics/) |
 
 </div>
 
@@ -96,7 +97,7 @@ interests:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaghan-mutum&layout=compact&theme=tokyonight&hide_border=true"/>
 </a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryaghan-mutum&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aryaghan-mutum&theme=tokyonight&hide_border=true)
 
 </div>
 
