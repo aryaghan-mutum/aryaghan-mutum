@@ -99,6 +99,7 @@ interests:
 | App | Description | Link |
 |:---:|:------------|:----:|
 | **Molecular Dynamics Simulation** | An interactive web application for visualizing and simulating molecular dynamics | [View](https://aryaghan-mutum.github.io/MolecularDynamics/) |
+| **Algorhythms** | A Racket package for algorithms and data structures | [Package](https://pkgs.racket-lang.org/package/algorhythms) |
 
 </div>
 
