@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Anurag Muthyam
 
+> *A creative anagrammatic pseudonym with phonetic smoothing and aesthetic mutation. "aryaghan-mutum" is my GitHub account and an anagrammatic variant of "Anurag."*
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Lead+QA+Test+Automation+Engineer;AI-driven+Testing+Enthusiast;Full-Stack+Developer;Agentic+AI+Explorer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-muthyam-9605b4167/)
