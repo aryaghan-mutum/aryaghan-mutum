@@ -15,8 +15,6 @@
 ![Version](https://img.shields.io/github/v/release/aryaghan-mutum/aryaghan-mutum?label=Profile%20Version&style=flat-square&color=6C63FF)
 ![Last Commit](https://img.shields.io/github/last-commit/aryaghan-mutum/aryaghan-mutum?style=flat-square&label=Last%20Updated&color=green)
 
-> 💡 **Tip:** This profile supports both light and dark themes. Switch themes in GitHub: Click your **profile picture** (top-right) → **Settings** → **Appearance** → Choose **Light** or **Dark**
-
 </div>
 
 ---
@@ -102,7 +100,7 @@ interests:
 |:---:|:------------|:----:|
 | **Personal Portfolio** | My personal website showcasing projects, skills, and experience | [View](https://aryaghan-mutum.github.io/anurag-muthyam/index.html) |
 | **Molecular Dynamics Simulation** | An interactive web application for visualizing and simulating molecular dynamics | [View](https://aryaghan-mutum.github.io/MolecularDynamics/) |
-| **Algorhythms** | A Racket package for algorithms and data structures | [Package](https://pkgs.racket-lang.org/package/algorhythms) |
+| **Algorhythms** | A Racket package for algorithms and data structures | [View](https://pkgs.racket-lang.org/package/algorhythms) |
 
 </div>
 
@@ -181,7 +179,5 @@ interests:
 <br>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> **Thanks for visiting!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
