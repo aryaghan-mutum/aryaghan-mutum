@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Anurag Muthyam
+# 👋 Hi, I'm Anurag Muthyam (Aryaghan Mutum)
+
+> *‘aryaghan-mutum’ is my GitHub username, an anagram of ‘Anurag Muthyam’ with some phonetic and aesthetic tweaks.*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Lead+QA+Test+Automation+Engineer;AI-driven+Testing+Enthusiast;Full-Stack+Developer;Agentic+AI+Explorer)](https://git.io/typing-svg)
 
@@ -12,8 +14,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aryaghan-mutum&color=blueviolet&style=flat-square)
 ![Version](https://img.shields.io/github/v/release/aryaghan-mutum/aryaghan-mutum?label=Profile%20Version&style=flat-square&color=6C63FF)
 ![Last Commit](https://img.shields.io/github/last-commit/aryaghan-mutum/aryaghan-mutum?style=flat-square&label=Last%20Updated&color=green)
-
-> 💡 **Tip:** This profile supports both light and dark themes. Switch themes in GitHub: Click your **profile picture** (top-right) → **Settings** → **Appearance** → Choose **Light** or **Dark**
 
 </div>
 
@@ -98,8 +98,9 @@ interests:
 
 | App | Description | Link |
 |:---:|:------------|:----:|
+| **Personal Portfolio** | My personal website showcasing projects, skills, and experience | [View](https://aryaghan-mutum.github.io/anurag-muthyam/index.html) |
 | **Molecular Dynamics Simulation** | An interactive web application for visualizing and simulating molecular dynamics | [View](https://aryaghan-mutum.github.io/MolecularDynamics/) |
-| **Algorhythms** | A Racket package for algorithms and data structures | [Package](https://pkgs.racket-lang.org/package/algorhythms) |
+| **Algorhythms** | A Racket package for algorithms and data structures | [View](https://pkgs.racket-lang.org/package/algorhythms) |
 
 </div>
 
@@ -174,5 +175,9 @@ interests:
 <div align="center">
 
 ⭐ **If you find my work interesting, feel free to star my repositories!** ⭐
+
+<br>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> **Thanks for visiting!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 </div>
