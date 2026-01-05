@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anurag Muthyam (Aryaghan Mutum)
 
-> *‘aryaghan-mutum’ is my GitHub username—an anagram of ‘Anurag’ with some phonetic and aesthetic tweaks.”*
+> *‘aryaghan-mutum’ is my GitHub username, an anagram of ‘Anurag Muthyam’ with some phonetic and aesthetic tweaks.*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Lead+QA+Test+Automation+Engineer;AI-driven+Testing+Enthusiast;Full-Stack+Developer;Agentic+AI+Explorer)](https://git.io/typing-svg)
 
