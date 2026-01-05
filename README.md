@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Anurag Muthyam
+# 👋 Hi, I'm Anurag Muthyam (Aryaghan Mutum)
 
-> *A creative anagrammatic pseudonym with phonetic smoothing and aesthetic mutation. "aryaghan-mutum" is my GitHub account and an anagrammatic variant of "Anurag."*
+> *‘aryaghan-mutum’ is my GitHub username—an anagram of ‘Anurag’ with some phonetic and aesthetic tweaks.”*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Lead+QA+Test+Automation+Engineer;AI-driven+Testing+Enthusiast;Full-Stack+Developer;Agentic+AI+Explorer)](https://git.io/typing-svg)
 
@@ -100,6 +100,7 @@ interests:
 
 | App | Description | Link |
 |:---:|:------------|:----:|
+| **Personal Portfolio** | My personal website showcasing projects, skills, and experience | [View](https://aryaghan-mutum.github.io/anurag-muthyam/index.html) |
 | **Molecular Dynamics Simulation** | An interactive web application for visualizing and simulating molecular dynamics | [View](https://aryaghan-mutum.github.io/MolecularDynamics/) |
 | **Algorhythms** | A Racket package for algorithms and data structures | [Package](https://pkgs.racket-lang.org/package/algorhythms) |
 
@@ -176,5 +177,11 @@ interests:
 <div align="center">
 
 ⭐ **If you find my work interesting, feel free to star my repositories!** ⭐
+
+<br>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> **Thanks for visiting!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
