@@ -1,0 +1,52 @@
+# Promotion Setup Guide for iTravelCruise System
+
+## Overview
+This guide provides a comprehensive overview of the steps to create promotions in the iTravelCruise system. Promotions are essential for attracting customers and enhancing sales.
+
+## Prerequisites
+- Access to the iTravelCruise system.
+- Administrator privileges to create promotions.
+- Familiarity with the promotion strategies of your organization.
+
+## General Settings
+- Log into the iTravelCruise admin panel.
+- Navigate to the Promotions section.
+- Click on "Create New Promotion" button.
+- Fill in the promotion name and description.
+
+## Applicability Criteria
+- Define the eligibility criteria for the promotion, such as:
+  - Customer groups (new customers, returning customers).
+  - Specific products or categories.
+  - Time frame for the promotion.
+
+## Benefits
+- Increased customer engagement.
+- Higher conversion rates.
+- Enhanced brand loyalty.
+
+## Promotion Controls
+- Set discount types (percentage, flat amount).
+- Define maximum discount limits.
+- Choose whether the promotion can be combined with other offers.
+
+## Testing Considerations
+- Test the promotion before going live by:
+  - Creating test orders.
+  - Checking application of discounts.
+- Ensure that all conditions are applying correctly.
+
+## Troubleshooting
+- Common issues include:
+  - Promotion not appearing on the website.
+  - Discounts not applying at checkout.
+  - Conflicts with other ongoing promotions.
+
+## Summary Checklist
+- [ ] Define promotion objectives.
+- [ ] Set eligibility criteria.
+- [ ] Review and test the promotion.
+- [ ] Launch promotion and monitor performance.
+
+## Conclusion
+Following this guide will help ensure that promotions are created effectively and meet the goals set by your organization.
